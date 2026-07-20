@@ -50,7 +50,7 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### 1. Polarization of Light
+### I. Polarization of Light
 
 An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
@@ -61,7 +61,7 @@ The simulator displays the polarization ellipse, animated electric-field traject
 
 ---
 
-### 2. Time-Domain THz Pulse
+### II. Time-Domain THz Pulse
 
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
@@ -70,7 +70,7 @@ An interactive educational simulation explaining the time-dependent THz electric
 
 ---
 
-### 3. Broadband THz Vector Beams
+### III. Broadband THz Vector Beams
 
 An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions.
 
@@ -81,7 +81,7 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 
 ---
 
-### Spatiotemporal evolution of THz Electric-Field
+### IV. Spatiotemporal evolution of THz Electric-Field
 
 An interactive educational simulation that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
 
