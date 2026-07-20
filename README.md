@@ -1,143 +1,111 @@
-<div align="center">
+can you give it a different look: first i wan tto visulize here itself: <h1 align="center">Welcome to the World of Terahertz (THz) Science <small>— KARARWAL Deepak</small></h1>
 
-# 🪟 Welcome to the World of Terahertz Science
+<h3 align="center">
+PhD student in Terahertz Optics and Photonics<br>
+Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
+</h3>
 
-## **KARARWAL Deepak**
-
-**PhD Student in Terahertz Optics and Photonics**  
-Department of Electrical Engineering · École de technologie supérieure · ÉTS Montréal
-
-`THz Sources` · `Vector Beams` · `Polarization Imaging` · `THz Waveguides` · `Scientific Computing`
-
-</div>
-
----
-
-<table>
-<tr>
-<td>
-
-### 🖥️ Terahertz_Research_Profile.exe
-
-My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis, hollow-core metallic waveguides, spintronic THz emitters, and THz time-domain spectroscopy.
-
-I combine experimental optics, electromagnetic simulations, signal processing, and scientific visualization to investigate THz emission, propagation, polarization, dispersion, and light–matter interactions.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>THz Sources</strong> •
+  <strong>Structured Vector Beams</strong> •
+  <strong>Polarization Imaging</strong> •
+  <strong>THz Waveguides</strong> •
+  <strong>Scientific Computing</strong>
+</p>
 
 ---
 
-## 🗂️ Research Areas
+## 👨‍🔬 Research Background
 
-| ⚡ THz Sources | 🌊 Structured Fields |
-|---|---|
-| Broadband generation, spintronic emitters, EO detection, THz-TDS | Radial and azimuthal beams, spatiotemporal fields, topological shaping |
+My research focuses on broadband THz generation, structured THz vector beams, spatio-spectral polarization analysis of broadband THz pulses, hollow-core circular metallic waveguides, and terahertz time-domain spectroscopy.
 
-| 🧭 Polarization Imaging | 📡 THz Waveguides |
-|---|---|
-| Stokes polarimetry, spatial maps, spectral polarization analysis | Hollow-core waveguides, modes, coupling, loss, dispersion |
+I combine experimental optics, electromagnetic simulations, signal processing, and scientific visualization to investigate THz emission, propagation, polarization, and light–matter interactions.
 
 ---
 
-## 💾 Research Tools
+## 🔬 Research areas
 
-`Python` · `NumPy` · `SciPy` · `Matplotlib` · `Magpylib` · `LaTeX` · `THz-TDS`
+- ⚡ Broadband terahertz generation and detection.
+- 🌊 Radially and azimuthally polarized THz vector beams.
+- 🧭 Stokes polarimetry and spectrally-resolved spatial-polarization mapping.
+- 📡 Hollow-core metallic THz waveguides.
+- 📈 THz time-domain and frequency-domain analysis.
+- 🧲 Magnetic-field tailoring of broadband THz vector fields using spintronic THz emitters.
+- 💻 Python-based simulation and scientific data analysis.
+- 🌊 Optics of birefringent media (Liquid crystals, uniaxial crystals etc.).
+---
+
+## 🛠️ Research Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-blue" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-Data%20Analysis-blue" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Magpylib-Magnetic%20Simulation-red" alt="Magpylib">
+  <img src="https://img.shields.io/badge/LaTeX-Scientific%20Writing-green" alt="LaTeX">
+  <img src="https://img.shields.io/badge/THz--TDS-Experimental%20Photonics-purple" alt="THz-TDS">
+</p>
 
 ---
 
-# 📁 Interactive Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### I. Polarization of Light
 
-### 🌀 Project_I.exe  
-**Polarization of Light**
+An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
-- Polarization ellipse
-- Animated electric-field trajectory
-- Stokes parameters
-- Orientation and ellipticity angles
+The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
-[Repository](https://github.com/kararwaldeepak/light-polarization-simulator) · [Run](https://kararwaldeepak.github.io/light-polarization-simulator/)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Project_II.exe  
-**Time-Domain THz Pulse**
-
-- Time-domain electric field
-- Fourier spectrum
-- Spectral phase and chirp
-- Reflections and noise
-
-[Repository](https://github.com/kararwaldeepak/thz-time-domain-pulse) · [Run](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 Project_III.exe  
-**Broadband THz Vector Beams**
-
-- Beam intensity
-- Polarization vectors
-- Normalized Stokes maps
-- Local polarization ellipse
-
-[Repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams) · [Run](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔭 Project_IV.exe  
-**Spatiotemporal THz Electric Field**
-
-- Delay-stage scan length
-- Frequency resolution
-- Nyquist frequency
-- Animated field evolution
-
-[Repository](https://github.com/kararwaldeepak/thz-spatiotemporal-field-explorer) · [Run](https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)
-
-</td>
-</tr>
-</table>
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
+<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)</sub>
 
 ---
 
-## ⌨️ COMMAND.COM — THz Delay-Scan Relations
+### II. Time-Domain THz Pulse
 
-```text
-C:\THz> Δt = mΔL / c
-C:\THz> L_scan = (N − 1)ΔL
-C:\THz> T_span = (N − 1)Δt
-C:\THz> Δf = 1 / (NΔt)
-C:\THz> f_Nyquist = 1 / (2Δt)
-C:\THz> N_f = floor(N/2) + 1
-C:\THz> τ_FWHM = t₂ − t₁
-C:\THz> B = f_high − f_low
-```
+An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
+
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
+<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)</sub>
 
 ---
 
-## 📇 Contact_Information.txt
+### III. Broadband THz Vector Beams
 
-- **GitHub:** [kararwaldeepak](https://github.com/kararwaldeepak)
-- **Department:** Electrical Engineering, ÉTS Montréal
-- **Research:** Terahertz optics, photonics, structured electromagnetic fields, and spatiotemporal shaping of THz light
+An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions.
+
+The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
+
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
+<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
 
 ---
 
-<div align="center">
+### IV. Spatiotemporal evolution of THz Electric-Field
 
-`START` ▸ `Programs` ▸ `Terahertz Science`
+An interactive educational simulation that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
 
-**Open science through interactive simulation and reproducible research.**
+The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
 
-</div>
+A THz delay scan records $N$ spatial electric-field images separated by a stage step $\Delta L$. The temporal sampling interval is $\Delta t=m\Delta L/c$, where $m=2$ for a retroreflector. The scan length and time window are $L_{\mathrm{scan}}=(N-1)\Delta L$ and $T_{\mathrm{span}}=(N-1)\Delta t$. The FFT frequency resolution and Nyquist frequency are $\Delta f=1/(N\Delta t)$ and $f_{\mathrm{Nyquist}}=1/(2\Delta t)$, while the number of non-negative frequency frames is $N_f=\lfloor N/2\rfloor+1$. The pulse duration is determined from $\tau_{\mathrm{FWHM}}=t_2-t_1$, and the spectral bandwidth is $B=f_{\mathrm{high}}-f_{\mathrm{low}}$.
+
+
+
+<sub>🔗 [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
+<sub>🌐 [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
+
+---
+
+
+
+## 📫 Connect
+
+- 👤 GitHub: [kararwaldeepak](https://github.com/kararwaldeepak)
+- 🏫 Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
+- 🔬 Research area: Terahertz optics, photonics, structured electromagnetic fields.
+- Spatio-temporal topological shaping of THz light.
+---
+
+<p align="center">
+  <em>Exploring terahertz science through experiments, simulations, and open scientific tools.</em>
+</p>
