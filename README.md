@@ -19,7 +19,7 @@ Welcome to the World of Terahertz (THz) Science
 <h3 align="center">
 PhD Student (Spatio-temporal topological shaping of terahertz light) at <br>
 Department of Electrical Engineering<br>
-École de technologie supérieure — ÉTS Montréal, Canada (2023-present).
+École de technologie supérieure — ÉTS Montréal, Canada (Oct 2023-present).
 </h3>
 
 <h3 align="center">
