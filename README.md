@@ -73,10 +73,10 @@ An interactive educational simulation explaining the time-dependent THz electric
 
 ## 📫 Connect
 
-- GitHub: [Krdeepak-THz](https://github.com/Krdeepak-THz)
-- Institution: École de technologie supérieure, Montréal
-- Research field: Terahertz photonics and structured electromagnetic fields
-
+- 👤 GitHub: [kararwaldeepak](https://github.com/kararwaldeepak)
+- 🏫 Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
+- 🔬 Research area: Terahertz optics, photonics, structured electromagnetic fields.
+- Spatio-temporal topological shaping of THz light.
 ---
 
 <p align="center">
