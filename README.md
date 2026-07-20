@@ -98,9 +98,9 @@ Department of Electrical Engineering<br>
 
 ### 🔴 Latest Updates
 
-* **July 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter. *To be communicated.*
-* **October 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides. *To be communicated.*
-* **January 2027:** Broadband THz vortex-beam generation from a spintronic emitter. *Tentative.*
+* **July 2026:** Generation and detection of broadband THz vector beams from a spintronic emitter *(To be communicated).*
+* **October 2026:** Coupling properties of broadband terahertz (THz) pulses in hollow core circular waveguides *(To be communicated).*
+* **January 2027:** Broadband THz vortex-beam generation from a spintronic emitter *(Tentative).*
 
 
 <p align="right">
