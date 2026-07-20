@@ -1,11 +1,16 @@
-<h1 align="center">Welcome to the World of Terahertz (THz) Science <small>— KARARWAL Deepak</small></h1>
+<h1 align="center">
+Welcome to the World of Terahertz (THz) Science
+<small>— KARARWAL Deepak</small>
+</h1>
+
 <h3 align="center">
-|Research is my passion|
+  <em>| Research is my passion |</em>
 </h3>
 
 <h3 align="center">
 PhD student in Terahertz Optics and Photonics<br>
-Department of Electrical Engineering, École de technologie supérieure (ÉTS Montréal)
+Department of Electrical Engineering,
+École de technologie supérieure (ÉTS Montréal)
 </h3>
 
 <p align="center">
@@ -15,6 +20,24 @@ Department of Electrical Engineering, École de technologie supérieure (ÉTS Mo
   <strong>THz Waveguides</strong> •
   <strong>Scientific Computing</strong>
 </p>
+
+<p align="center">
+  <a href="#news">
+    <img
+      src="./assets/live-news.gif"
+      width="180"
+      alt="Live Research News">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#news"><strong>NEWS</strong></a> •
+  <a href="#-research-background"><strong>RESEARCH</strong></a> •
+  <a href="#projects"><strong>PROJECTS</strong></a> •
+  <a href="#-connect"><strong>CONNECT</strong></a>
+</p>
+
+---
 
 ---
 
