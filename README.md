@@ -86,14 +86,19 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 An interactive educational simulation that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
 
 The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['\\(', '\\)']],
-      displayMath: [['\\[', '\\]']]
-    }
-  };
-</script>
+<p>
+  A THz delay scan records \(N\) spatial electric-field images separated by a
+  stage step \(\Delta L\). The temporal sampling interval is
+  \(\Delta t=m\Delta L/c\), where \(m=2\) for a retroreflector. The scan length
+  and time window are \(L_{\mathrm{scan}}=(N-1)\Delta L\) and
+  \(T_{\mathrm{span}}=(N-1)\Delta t\). The FFT frequency resolution and Nyquist
+  frequency are \(\Delta f=1/(N\Delta t)\) and
+  \(f_{\mathrm{Nyquist}}=1/(2\Delta t)\), while the number of non-negative
+  frequency frames is \(N_f=\lfloor N/2\rfloor+1\). The pulse duration is
+  obtained from the temporal-envelope FWHM,
+  \(\tau_{\mathrm{FWHM}}=t_2-t_1\), and the spectral bandwidth is
+  \(B=f_{\mathrm{high}}-f_{\mathrm{low}}\).
+</p>
 
 <script
   defer
