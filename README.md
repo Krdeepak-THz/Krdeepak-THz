@@ -45,10 +45,10 @@ Department of Electrical Engineering,
 
 ## 📰 NEWS
 
-> 🔴 **LIVE — Latest research and project updates**
+> 🔴 **LIVE — **
 
 | Date | News |
-|:---:|---|
+|:April 20, 2026:|Spatio-spectral full-Stokes mapping of broadband terahertz pulses|DOI: 10.1063/5.0334055|
 | **July 2026** | **abcd** |
 
 <p align="right">
