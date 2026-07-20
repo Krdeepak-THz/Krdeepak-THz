@@ -77,7 +77,7 @@ An interactive educational simulation explaining the time-dependent THz electric
 
 🔗 [https://github.com/kararwaldeepak/broadband-thz-vector-beams]
 
-🌐 [https://kararwaldeepak.github.io/broadband-thz-vector-beams/]
+🌐 [https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/]
 ---
 
 ## 📫 Connect
