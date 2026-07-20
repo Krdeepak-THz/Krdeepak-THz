@@ -86,7 +86,19 @@ The simulator displays the beam intensity, polarization-vector distribution, nor
 An interactive educational simulation that explains how a sequence of two-dimensional THz electric-field images forms a complete spatiotemporal dataset, (E_x(x,y,t)) and (E_y(x,y,t)), and how it is transformed into frequency-resolved THz field maps.
 
 The simulator calculates and visualizes the delay-stage scan length, temporal sampling interval, total time window, frequency resolution, Nyquist frequency, number of time-domain and frequency-domain frames, THz pulse width, spectral bandwidth, spatial electric-field distribution, frequency-resolved field maps, spatiotemporal (x)-(t) maps, and animated THz pulse evolution.
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['\\(', '\\)']],
+      displayMath: [['\\[', '\\]']]
+    }
+  };
+</script>
 
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 <sub>🔗 [https://github.com/Kararwaldeepak/thz-spatiotemporal-field-explorer]</sub><br>
 <sub>🌐 [https://kararwaldeepak.github.io/thz-spatiotemporal-field-explorer/)</sub>
 
