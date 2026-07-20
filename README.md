@@ -50,15 +50,14 @@ I combine experimental optics, electromagnetic simulations, signal processing, a
 
 ## Projects
 
-### 📡 Polarization of light
+### 📡 Polarization of Light
 
-An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal sinusoidal electric-field components.
+An interactive simulation for understanding linear, circular, and elliptical polarization by controlling the amplitudes and relative phase of two orthogonal electric-field components.
 
 The simulator displays the polarization ellipse, animated electric-field trajectory, side and top propagation views, component waveforms, Stokes parameters, orientation angle, ellipticity angle, and handedness.
 
-🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)
-
-🌐 [Run the live polarization simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/light-polarization-simulator)</sub><br>
+<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/light-polarization-simulator/)</sub>
 
 ---
 
@@ -66,18 +65,19 @@ The simulator displays the polarization ellipse, animated electric-field traject
 
 An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
 
-🔗 [Open the THz repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/thz-time-domain-pulse)</sub><br>
+<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)</sub>
 
-🌐 [Run the THz simulation](https://kararwaldeepak.github.io/thz-time-domain-pulse/)
 ---
 
-### 📡 Broadband THz vector beams
+### 🌀 Broadband THz Vector Beams
 
-An interactive educational simulation explaining the time-dependent THz electric field, Fourier-amplitude spectrum, spectral phase, pulse duration, chirp, reflections, and measurement noise.
+An interactive simulation explaining radially and azimuthally polarized broadband THz beams and their spatially varying electric-field distributions.
 
-🔗 [https://github.com/Kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams]
+The simulator displays the beam intensity, polarization-vector distribution, normalized Stokes maps \(s_1\), \(s_2\), and \(s_3\), polarization azimuth, local polarization ellipse, time-domain electric-field components, and THz spectrum.
 
-🌐 [https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/]
+<sub>🔗 [Open the repository](https://github.com/kararwaldeepak/Kararwaldeepak-broadband-thz-vector-beams)</sub><br>
+<sub>🌐 [Run the live simulation](https://kararwaldeepak.github.io/Kararwaldeepak-broadband-thz-vector-beams/)</sub>
 ---
 
 ## 📫 Connect
