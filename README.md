@@ -50,6 +50,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   <a href="#news"><strong>NEWS</strong></a> •
   <a href="#research"><strong>RESEARCH</strong></a> •
   <a href="#projects"><strong>PROJECTS</strong></a> •
+  <a href="#terahertz-optics--news--research"><strong>Terahertz Optics — News &amp; Research</strong></a> •
   <a href="#connect"><strong>CONNECT</strong></a> 
 </p>
 
@@ -142,6 +143,24 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 </p>
 
 ---
+
+<h3>📰 Terahertz Optics — News & Research</h3>
+
+<p>
+  Explore the latest articles, research highlights, and developments in 
+  <strong>terahertz optics</strong> from Nature Portfolio.
+</p>
+
+<p>
+  <a href="https://www.nature.com/subjects/terahertz-optics">
+    <img
+      src="https://img.shields.io/badge/Read%20on%20Nature-Terahertz%20Optics-000000?style=for-the-badge&logo=nature&logoColor=white"
+      alt="Read general terahertz optics news and research on Nature">
+  </a>
+</p>
+
+
+
 
 <a id="research"></a>
 ## 👨‍🔬 Research Background
