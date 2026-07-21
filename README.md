@@ -14,7 +14,7 @@ Welcome to the World of Terahertz (THz) Science
 
 <h3 align="center">
   <em>Science is not just about finding answers — it’s about asking better questions that shape the future!</em>
-  <em>Also, be patient with the noise, because your signal belongs to only you! </em>
+  <em>Also, be patient with the noise, because your signal belongs to only you!</em>
 </h3>
 
 
@@ -50,10 +50,11 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   <a href="#news"><strong>NEWS</strong></a> •
   <a href="#research"><strong>RESEARCH</strong></a> •
   <a href="#projects"><strong>PROJECTS</strong></a> •
-  <a href="#connect"><strong>CONNECT</strong></a>
+  <a href="#connect"><strong>CONNECT</strong></a> 
 </p>
 
 ---
+
 
 <a id="news"></a>
 
@@ -65,28 +66,15 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
     alt="Published in Applied Physics Letters">
 </p>
 
-<h3>
-  <img src="https://img.icons8.com/color/48/trophy.png" width="28" height="28">
-  Featured Publication
-</h3>
 
 <h3>
   <img src="./apl-logo.png"
-       width="24"
-       height="24"
+       width="150"
+       height="120"
        align="absmiddle"
        alt="Applied Physics Letters logo">
-  &nbsp;Featured Publication
+  &nbsp; 
 </h3>
-
-<a href="https://doi.org/10.1063/5.0334055">
-  <strong>Spatio-spectral full-Stokes mapping of broadband terahertz pulses</strong>
-</a>
-
-<br>
-
-Published in <em>Applied Physics Letters</em>, <strong>128</strong>, 161105 (2026).
-
 
 <table>
 <tr>
