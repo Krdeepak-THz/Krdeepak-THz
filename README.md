@@ -120,7 +120,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 * **April 2025 — Journal Article:** *A continuous plane of polarization rotator and detector based on the liquid crystal Θ-cell* — Published in **Optics & Laser Technology**, **182**, 112138.
   **DOI:** [`10.1016/j.optlastec.2024.112138`](https://doi.org/10.1016/j.optlastec.2024.112138)
 
-* **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof* — A liquid-crystal-based system for real-time detection of the plane of polarization.
+* **November 2023 — Patent:** *System for Detection of a Plane of Polarization of Light and Method Thereof* — A liquid-crystal-based system for real-time detection of the plane of polarization [First examination report (FER) submitted].
 
 <p align="left">
   <a href="https://www.researchgate.net/profile/Deepak-Kararwal-2">
