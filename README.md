@@ -70,6 +70,24 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   Featured Publication
 </h3>
 
+<h3>
+  <img src="./apl-logo.png"
+       width="24"
+       height="24"
+       align="absmiddle"
+       alt="Applied Physics Letters logo">
+  &nbsp;Featured Publication
+</h3>
+
+<a href="https://doi.org/10.1063/5.0334055">
+  <strong>Spatio-spectral full-Stokes mapping of broadband terahertz pulses</strong>
+</a>
+
+<br>
+
+Published in <em>Applied Physics Letters</em>, <strong>128</strong>, 161105 (2026).
+
+
 <table>
 <tr>
 <td width="180"><strong>Journal</strong></td>
