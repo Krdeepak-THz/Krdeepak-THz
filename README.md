@@ -56,7 +56,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
 
 <a id="news"></a>
 
-## 📰 NEWS
+## 📰 RECENT
 
 <p align="center">
   <img
