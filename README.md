@@ -37,14 +37,7 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   <strong>Scientific Computing</strong>
 </p>
 
-<p align="center">
-  <a href="#news">
-    <img
-      src="./live-news.gif"
-      width="180"
-      alt="Live Research News">
-  </a>
-</p>
+### UPDATES
 
 <p align="center">
   <a href="#news"><strong>NEWS</strong></a> •
