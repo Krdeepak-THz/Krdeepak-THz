@@ -26,7 +26,7 @@ Department of Electrical Engineering<br>
 
 <h3 align="center">
 joint supervision
-Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)(Contract: June 2025-Apr 2027).
+Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers d'Aquitaine)(Contract: June 2025-present).
 </h3>
 
 <p align="center">
@@ -37,7 +37,9 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   <strong>Scientific Computing</strong>
 </p>
 
-### UPDATES
+<h3 align="center">
+ UPDATES
+</h3>
 
 <p align="center">
   <a href="#news"><strong>NEWS</strong></a> •
