@@ -8,6 +8,7 @@
 <a id="top"></a>
 
 <h1 align="center">
+  
 Welcome to the World of Terahertz Science
 <small>— KARARWAL Deepak</small>
 </h1>
@@ -51,10 +52,19 @@ Bordeaux university-Aquitaine Optics and Lasers Centre (Centre Optique et Lasers
   <a href="#connect"><strong>CONNECT</strong></a> 
 </p>
 
+
+<p align="center">
+“Science does not wait for the future—it discovers, designs, and builds it.”
+</p>
+
 ---
 
 
 <a id="news"></a>
+
+
+
+
 
 ## 📰 RECENT DEMONSTRATIONS (20 April, 2026)
 
